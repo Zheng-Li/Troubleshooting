@@ -1,8 +1,3 @@
-# System Activity Report - 
-ysar -int 1 
-ysar -cpu
-ysar -mem
-
 # Hardware Configuration - 
 sudo hwconfig
 
